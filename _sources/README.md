@@ -6,11 +6,13 @@ When starting the Operate First project, we looked around and said, "There is no
 Nowhere to discuss and document all the Why, What, and How of our discipline.
 We should fix that."
 
-So we are fixing that, and you are invited to participate in creating this [community of practice](https://en.wikipedia.org/wiki/Community_of_practice) around Site Reliability Engineering (SRE).
+So we are fixing that, and you are invited to participate in creating SIG-SRE, a [community of practice](https://en.wikipedia.org/wiki/Community_of_practice) around Site Reliability Engineering (SRE).
 
 This is SIG SRE, the Special Interest Group (SIG) for Site Reliability Engineering (SRE) in the Operate First project.
 
 We focus on a core part of the Operate First goal to improve managed services by fully Opening all aspects of the cloud environment.
+In particular, we focus on observability, managing fleets, incident response, operability, and similar core disciplines.
+
 This new _Open Cloud_ environment is going to need Open SRE practices to go with it, and this is where SIG SRE comes in.
 
 Read the [SIG charter](charter.md) for more details about our purpose and approach.
@@ -69,7 +71,7 @@ But where it comes to what is a central focus of this community, it will always 
 
 ### Decision-Making
 
-* Some sample SIG-SRE [Architecture Decision Records](./ADRs/RH/SIG-SRE)
+* Some sample SIG-SRE [Architecture Decision Records](https://github.com/operate-first/sre/tree/main/ADRs/RH/SIG-SRE)
 
     When major decisions are made on design or operational aspects of system, it can be very worthwhile to keep a clear record of those
     decisions for future reference.
@@ -100,7 +102,7 @@ These organizations have a contributing stake in the Operate First project, whic
 
 ## Contributing
 
-_For complete information on contributing to this SIG, refer to the canonical [CONTRIBUTING.md](CONTRIBUTING.md) file._
+_For complete information on contributing to this SIG, refer to the canonical [CONTRIBUTING.md](./CONTRIBUTING.md) file._
 
 Feedback is always welcome, and contributions are too!
 Feel free to file an [issue](https://github.com/operate-first/sre/issues/new) or send us a pull request (PR). If you'd like to know more about what we do or find out about ways you can get involved, then you can read about [becoming part of the Operate First community.](https://www.operate-first.cloud/our-community)
